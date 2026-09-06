@@ -1,5 +1,5 @@
 (() => {
-  const SCRIPT_URL = "__GOOGLE_SCRIPT_URL__";
+  const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbx_ap0Pmfr0waFk8AHpoJBqccaIa4ZyS1b7QLdL5jm_tDJV1BAUQZuLbyVK10UBwy9a/exec";
   const form = document.getElementById("form");
   const message = document.getElementById("message");
   const scoreItems = [
